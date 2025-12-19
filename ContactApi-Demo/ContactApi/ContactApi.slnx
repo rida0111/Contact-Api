@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ContactApi-BusinessLayer/ContactApi-BusinessLayer.csproj" />
+  <Project Path="../ContactApi-DataAccessLayer/ContactApi-DataAccessLayer.csproj" />
+  <Project Path="ContactApi.csproj" />
+</Solution>
